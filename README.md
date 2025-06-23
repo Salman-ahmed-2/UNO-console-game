@@ -1,7 +1,7 @@
 # 🎮 Let's Play UNO! – C++ Console Game
 
 <div align="center">
-  <img src="main.png" width="150" alt="UNO Logo"><br>
+  <img src="main.jpg" width="150" alt="UNO Logo"><br>
   <b>UNO - 2 Player Console-Based Card Game</b><br>
   <i>Built with C++ | No External Libraries | Text-Based Game</i>
 </div>
